@@ -1,0 +1,8 @@
+%dir /usr/lib/debug
+%dir /usr/lib/debug/usr
+%dir /usr/lib/debug/usr/bin
+%dir /usr/lib/debug/.build-id
+%dir /usr/lib/debug/.build-id/1f
+/usr/lib/debug/usr/bin/harbour-sailpodder.debug
+/usr/lib/debug/.build-id/1f/ca511d9789b0f04411b8d44df4262083ba9933
+/usr/lib/debug/.build-id/1f/ca511d9789b0f04411b8d44df4262083ba9933.debug
